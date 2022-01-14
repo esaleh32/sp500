@@ -6,3 +6,4 @@ matplotlib==3.4.3
 yfinance==0.1.69
 lxml==4.6.3
 base58==2.1.1
+seaborn==0.11.2
